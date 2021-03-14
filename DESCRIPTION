@@ -1,0 +1,17 @@
+Package: CastorCSV
+Version: 0.1.0
+Type: Package
+Title: Castor csv export package
+Authors@R: person("RTC", "DS", email = "datastewardship.im@radboudumc.nl",
+    role = c("aut", "cre"))
+Description: Read in the csv export from Castoredc
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 4.0.1)
+Imports: 
+    dplyr (>= 1.0.0),
+    magrittr (>= 1.5),
+    stringr (>= 1.4.0)
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
