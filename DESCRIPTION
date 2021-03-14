@@ -2,7 +2,7 @@ Package: CastorCSV
 Version: 0.1.0
 Type: Package
 Title: Castor csv export package
-Authors@R: person("RTC", "DS", email = "datastewardship.im@radboudumc.nl",
+Authors@R: person("RTC", "DS", email = "NA@email.com",
     role = c("aut", "cre"))
 Description: Read in the csv export from Castoredc
 License: GPL (>= 3)
